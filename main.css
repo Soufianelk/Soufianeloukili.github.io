@@ -583,7 +583,7 @@ option , select{
         height: 60%;
     }
     .skills__cont{
-        background-color: none;
+        background: #000000;
     }
     .bar{
         width: 50%;
