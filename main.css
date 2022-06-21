@@ -251,7 +251,7 @@ img{
 }
 .skills__containers{
     position: relative;
-    margin-left: 120px;
+    margin-left: 100px;
     align-items: center;
     justify-items: center;
 }
@@ -536,6 +536,9 @@ option , select{
         align-items: center;
         text-align: center;
         padding: 4rem 0;
+    }
+    .about__text{
+        font-size: large;
     }
     .about__img{
         width: 300px;
