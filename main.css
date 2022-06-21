@@ -210,6 +210,7 @@ img{
 }
 .home__scroll button:hover > a{
     color: black;
+    font-weight: bold;
 }
 .home__img{
     position: absolute;
