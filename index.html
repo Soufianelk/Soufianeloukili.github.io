@@ -148,9 +148,9 @@
 
                 <form action="https://formsubmit.co/soufiane.loukili5@gmail.com" method="POST" class="contact__form">
                     <div class="contact__inputs">
-                        <input type="text" name="Name" class="contact__input" placeholder="Name" id="n">
-                        <input type="email" name="Email" class="contact__input" placeholder="E-mail" id="e">
-                        <select name="Continent" class="contact__input" id="c">
+                        <input type="text" name="Name" class="contact__input" placeholder="Name" id="n" required>
+                        <input type="email" name="Email" class="contact__input" placeholder="E-mail" id="e" required>
+                        <select name="Continent" class="contact__input" id="c" required>
                             <option >Africa</option>
                             <option >Europe</option>
                             <option >Asia</option>
@@ -161,7 +161,7 @@
                         </select>
                     </div>
 
-                    <textarea name="Message" id="t" cols="0" rows="10" class="contact__input" placeholder="express your self here"></textarea>
+                    <textarea name="Message" id="t" cols="0" rows="10" class="contact__input" placeholder="express your self here" required></textarea>
 
                     <input type="submit" value="Send" class="contact__button">
                 </form>
