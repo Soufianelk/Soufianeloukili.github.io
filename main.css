@@ -302,6 +302,13 @@ background: linear-gradient(to right top, #00c8ff60, #00d9ff62, #00e8f462, #00f4
 padding: 20px 40px;
 border-radius: 10px;
 }
+.skills__containerss{
+    margin: 0 var(--mb-4);
+    width: 90%;
+    background: linear-gradient(to right top, #00c8ff60, #00d9ff62, #00e8f462, #00f4e065, #00ffc388);
+    padding: 20px 40px;
+    border-radius: 10px;
+    }
 .skill__box{
     justify-items: center;
     margin-bottom:var(--mb-4) ;
