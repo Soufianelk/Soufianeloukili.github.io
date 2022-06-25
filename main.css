@@ -259,7 +259,7 @@ img{
 #des{
     width: 200px;
     height: 200px;
-    background: url("img/bg des.png") no-repeat;
+    background: url("img/desnblur.png") no-repeat;
     background-size: contain;
     border-radius: 400px;
     border: #fafaff solid 2px;
@@ -275,7 +275,7 @@ img{
 #dev{
     width: 200px;
     height: 200px;
-    background: url("img/bg dev.png") no-repeat;
+    background: url("img/devnblur.png") no-repeat;
     background-size: contain;
     border-radius: 400px;
     border: #fafaff solid 2px;
