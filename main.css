@@ -115,6 +115,9 @@ img{
     
 }
 @media screen and (max-width: 768px){
+    .frm-skills{
+        text-align: center;
+    }
     .nav__menu{
         position: fixed;
         top: var(--header-height);
